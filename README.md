@@ -1,2 +1,2 @@
-# Vidas-de-Gato
-juego creado para clase de programacion.
+# prueba
+prueba para clase de programacion.
